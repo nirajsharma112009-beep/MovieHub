@@ -160,4 +160,4 @@ let data = [
     }
 ];
 
-displayMovies(data);
+displayMovie(data);
